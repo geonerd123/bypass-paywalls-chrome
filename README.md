@@ -192,7 +192,7 @@ The free article limit can normally be bypassed by removing cookies for the site
 Install the Cookie Remover extension [for Google Chrome](https://chrome.google.com/webstore/detail/cookie-remover/kcgpggonjhmeaejebeoeomdlohicfhce) or [for Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-remover/). Please rate it 5 stars if you find it useful.
 
 
-When coming across a paywall click the cookie icon to remove the cookies then refresh the page.
+When coming across a paywall, click the cookie icon to remove the cookies then refresh the page.
 
 _*May not always succeed_
 

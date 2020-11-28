@@ -224,7 +224,7 @@ PRs are welcome.
 
 ### Show your support
 * Follow me on Twitter [@iamadamdev](https://twitter.com/iamadamdev) for updates.
-* I do not ask for donations, all I ask is that you star this repo.
+* I do not ask for donations; all I ask is that you star this repo.
 
 ### Disclaimer
 * This software is provided for educational purposes only and
